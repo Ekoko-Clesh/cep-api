@@ -1,0 +1,3338 @@
+[
+  {
+    "cidade": "maputo",
+    "distrito": "kampfumo (Antigo Distrito numero 2)",
+    "bairro": "alto mae a",
+    "cep": "0101-01"
+  },
+  {
+    "cidade": "maputo",
+    "distrito": "kampfumo (Antigo Distrito numero 2)",
+    "bairro": "alto mae b",
+    "cep": "0101-02"
+  },
+  {
+    "cidade": "maputo",
+    "distrito": "kampfumo (Antigo Distrito numero 2)",
+    "bairro": "central a",
+    "cep": "0101-03"
+  },
+ {
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "central b",
+  "cep": "0101-04"
+},
+ {
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "central c",
+  "cep": "0101-05"
+},
+ {
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "coop",
+  "cep": "0101-06"
+},
+{
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "malhangalene a",
+  "cep": "0101-07"
+},
+{
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "malhangalene b",
+  "cep": "0101-08"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "polana cimento a",
+  "cep": "0101-09"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "polana cimento b",
+  "cep": "0101-10"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kampfumo (Antigo Distrito numero 2)",
+  "bairro": "sommerschield",
+  "cep": "0101-11"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "aeroporto a",
+  "cep": "0102-01"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "aeroporto b",
+  "cep": "0102-02"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "chamanculo a",
+  "cep": "0102-03"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "chamanculo b",
+  "cep": "0102-04"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "chamanculo c",
+  "cep": "0102-05"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "chamanculo d",
+  "cep": "0102-06"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "malanga",
+  "cep": "0102-07"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "minkadjuine",
+  "cep": "0102-08"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "munhuana",
+  "cep": "0102-09"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "unidade 7",
+  "cep": "0102-10"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "nhlamankulu (Antigo Distrito numero 2)",
+  "bairro": "xipamanine",
+  "cep": "0102-11"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "mafalala",
+  "cep": "0103-01"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "maxaquene a",
+  "cep": "0103-02"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "maxaquene b",
+  "cep": "0103-03"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "maxaquene c",
+  "cep": "0103-04"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "maxaquene d",
+  "cep": "0103-05"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "polana canico a",
+  "cep": "0103-06"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "polana canico b",
+  "cep": "0103-07"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 3)",
+  "bairro": "urbanizacao",
+  "cep": "0103-08"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMaxakeni (Antigo Distrito numero 4)",
+  "bairro": "3 de fevereiro",
+  "cep": "0104-01"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "albasine",
+  "cep": "0104-02"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "costa do sol",
+  "cep": "0104-03"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "fplm",
+  "cep": "0104-04"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "ferroviario",
+  "cep": "0104-05"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "hulene a",
+  "cep": "0104-06"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "hulene b",
+  "cep": "0104-07"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "laulane",
+  "cep": "0104-08"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "mahotas",
+  "cep": "0104-09"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "mavalane a",
+  "cep": "0104-10"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMavota (Antigo Distrito numero 4)",
+  "bairro": "mavalane b",
+  "cep": "0104-11"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "25 de junho a",
+  "cep": "0105-01"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "25 de junho b",
+  "cep": "0105-02"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "bagamoyo",
+  "cep": "0105-03"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "inhagoia a",
+  "cep": "0105-04"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "inhagoia b",
+  "cep": "0105-05"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "jardim",
+  "cep": "0105-06"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "jorge dimitrov",
+  "cep": "0105-07"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "luis cabral",
+  "cep": "0105-08"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "magoanine a",
+  "cep": "0105-09"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "magoanine b",
+  "cep": "0105-10"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "magoanine c",
+  "cep": "0105-11"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "mahlazine",
+  "cep": "0105-12"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "salene",
+  "cep": "0105-13"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaMubukwana (Antigo Distrito numero 5)",
+  "bairro": "zimpeto",
+  "cep": "0105-14"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaTembe (Antigo Distrito numero 6)",
+  "bairro": "chali",
+  "cep": "0106-01"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaTembe (Antigo Distrito numero 6)",
+  "bairro": "chamissava",
+  "cep": "0106-02"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaTembe (Antigo Distrito numero 6)",
+  "bairro": "guachene",
+  "cep": "0106-03"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaTembe (Antigo Distrito numero 6)",
+  "bairro": "incassane",
+  "cep": "0106-04"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaTembe (Antigo Distrito numero 6)",
+  "bairro": "inguide",
+  "cep": "0106-05"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaNyaka (Antigo Distrito numero 7)",
+  "bairro": "inguane",
+  "cep": "0107-01"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaNyaka (Antigo Distrito numero 7)",
+  "bairro": "nhaquene",
+  "cep": "0107-02"
+},
+  {
+  "cidade": "maputo",
+  "distrito": "kaNyaka (Antigo Distrito numero 7)",
+  "bairro": "ribjene",
+  "cep": "0107-03"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matutuine",
+  "posto administrativo": "bela-vista",
+  "cep": "0201-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matutuine",
+  "posto administrativo": "catembe nsime",
+  "cep": "0201-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matutuine",
+  "posto administrativo": "catuane",
+  "cep": "0201-03"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matutuine",
+  "posto administrativo": "machangulo",
+  "cep": "0201-04"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matutuine",
+  "posto administrativo": "zitundo",
+  "cep": "0201-05"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "namaacha",
+  "posto administrativo": "changalane",
+  "cep": "0202-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "namaacha",
+  "posto administrativo": "namaacha",
+  "cep": "0202-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "boane",
+  "posto administrativo": "boane",
+  "cep": "0203-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "boane",
+  "posto administrativo": "matola rio",
+  "cep": "0203-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matola",
+  "posto administrativo": "infulene",
+  "cep": "0204-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matola",
+  "posto administrativo": "machava",
+  "cep": "0204-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "matola",
+  "posto administrativo": "matola",
+  "cep": "0204-03"
+},
+ {
+  "provincia": "maputo",
+  "distrito": "marracuene",
+  "posto administrativo": "machubo",
+  "cep": "0205-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "marracuene",
+  "posto administrativo": "marracuene",
+  "cep": "0205-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "moamba",
+  "posto administrativo": "moamba",
+  "cep": "0206-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "moamba",
+  "posto administrativo": "pessene",
+  "cep": "0206-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "moamba",
+  "posto administrativo": "ressano garcia",
+  "cep": "0206-03"
+},
+   {
+  "provincia": "maputo",
+  "distrito": "moamba",
+  "posto administrativo": "sabie",
+  "cep": "0206-04"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "manhica",
+  "posto administrativo": "3 de fevereiro",
+  "cep": "0207-01"
+},
+ {
+  "provincia": "maputo",
+  "distrito": "manhica",
+  "posto administrativo": "calanga",
+  "cep": "0207-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "manhica",
+  "posto administrativo": "ilha josina machel",
+  "cep": "0207-03"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "manhica",
+  "posto administrativo": "maluana",
+  "cep": "0207-04"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "manhica",
+  "posto administrativo": "manhica",
+  "cep": "0207-05"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "manhica",
+  "posto administrativo": "xinavane",
+  "cep": "0207-06"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "magude",
+  "posto administrativo": "magude",
+  "cep": "0208-01"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "magude",
+  "posto administrativo": "mahele",
+  "cep": "0208-02"
+},
+  {
+  "provincia": "maputo",
+  "distrito": "magude",
+  "posto administrativo": "mapulanguene",
+  "cep": "0208-03"
+},
+    {
+  "provincia": "maputo",
+  "distrito": "magude",
+  "posto administrativo": "motaze",
+  "cep": "0208-04"
+},
+    {
+  "provincia": "maputo",
+  "distrito": "magude",
+  "posto administrativo": "panjane",
+  "cep": "0208-05"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "chongoene",
+  "posto administrativo": "chongoene",
+  "cep": "0301-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chongoene",
+  "posto administrativo": "mazucane",
+  "cep": "0301-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chongoene",
+  "posto administrativo": "nguzene",
+  "cep": "0301-03"
+},
+   {
+  "provincia": "gaza",
+  "distrito": "xai-xai",
+  "posto administrativo": "inhamissa",
+  "cep": "0302-01"
+},
+   {
+  "provincia": "gaza",
+  "distrito": "xai-xai",
+  "posto administrativo": "patrice lumumba",
+  "cep": "0302-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "xai-xai",
+  "posto administrativo": "praia de xai-xai",
+  "cep": "0302-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "xai-xai",
+  "posto administrativo": "xai-xai",
+  "cep": "0302-04"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "limpopo",
+  "posto administrativo": "chicumbane",
+  "cep": "0303-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "limpopo",
+  "posto administrativo": "chissano",
+  "cep": "0303-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "limpopo",
+  "posto administrativo": "zongoene",
+  "cep": "0303-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "bilene",
+  "posto administrativo": "incaia",
+  "cep": "0304-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "bilene",
+  "posto administrativo": "macia",
+  "cep": "0304-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "bilene",
+  "posto administrativo": "macuane",
+  "cep": "0304-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "bilene",
+  "posto administrativo": "mazivila",
+  "cep": "0304-04"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "bilene",
+  "posto administrativo": "messano",
+  "cep": "0304-05"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "bilene",
+  "posto administrativo": "praia de bilene",
+  "cep": "0304-06"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mandlakazi",
+  "posto administrativo": "chibonzane",
+  "cep": "0305-01"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "mandlakazi",
+  "posto administrativo": "chidenguele",
+  "cep": "0305-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mandlakazi",
+  "posto administrativo": "macuacua",
+  "cep": "0305-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mandlakazi",
+  "posto administrativo": "mandlakazi",
+  "cep": "0305-04"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mandlakazi",
+  "posto administrativo": "xhalala",
+  "cep": "0305-05"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chibuto",
+  "posto administrativo": "alto changana",
+  "cep": "0306-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chibuto",
+  "posto administrativo": "chaimite",
+  "cep": "0306-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chibuto",
+  "posto administrativo": "changanine",
+  "cep": "0306-03"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "chibuto",
+  "posto administrativo": "chibuto",
+  "cep": "0306-04"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "chibuto",
+  "posto administrativo": "godide",
+  "cep": "0306-05"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "chibuto",
+  "posto administrativo": "malehice",
+  "cep": "0306-06"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chokwe",
+  "posto administrativo": "chokwe",
+  "cep": "0307-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chokwe",
+  "posto administrativo": "lionde",
+  "cep": "0307-02"
+},
+    {
+  "provincia": "gaza",
+  "distrito": "chokwe",
+  "posto administrativo": "macarretane",
+  "cep": "0307-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chokwe",
+  "posto administrativo": "chilembene",
+  "cep": "0307-04"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "guija",
+  "posto administrativo": "canicado",
+  "cep": "0308-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "guija",
+  "posto administrativo": "canicado",
+  "cep": "0308-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "guija",
+  "posto administrativo": "chivongoene",
+  "cep": "0308-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "guija",
+  "posto administrativo": "mubangoene",
+  "cep": "0308-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "guija",
+  "posto administrativo": "nalazi",
+  "cep": "0308-04"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chigubo",
+  "posto administrativo": "chigubo",
+  "cep": "0309-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chigubo",
+  "posto administrativo": "dindiza",
+  "cep": "0309-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mabalane",
+  "posto administrativo": "combomune",
+  "cep": "0310-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mabalane",
+  "posto administrativo": "mabalane",
+  "cep": "0310-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mabalane",
+  "posto administrativo": "ntlavene",
+  "cep": "0310-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "massingir",
+  "posto administrativo": "massingir",
+  "cep": "0311-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "massingir",
+  "posto administrativo": "mavodze",
+  "cep": "0311-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "massingir",
+  "posto administrativo": "zulo",
+  "cep": "0311-03"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mapai",
+  "posto administrativo": "machaila",
+  "cep": "0312-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "mapai",
+  "posto administrativo": "mapai",
+  "cep": "0312-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chicualacuala",
+  "posto administrativo": "eduardo mondlane",
+  "cep": "0313-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "chicualacuala",
+  "posto administrativo": "pafuri",
+  "cep": "0313-02"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "massangena",
+  "posto administrativo": "massangena",
+  "cep": "0314-01"
+},
+  {
+  "provincia": "gaza",
+  "distrito": "massangena",
+  "posto administrativo": "mavue",
+  "cep": "0314-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "zavala",
+  "posto administrativo": "quissico",
+  "cep": "0401-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "zavala",
+  "posto administrativo": "zandamela",
+  "cep": "0401-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inharrime",
+  "posto administrativo": "inharrime",
+  "cep": "0402-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inharrime",
+  "posto administrativo": "mocumbi",
+  "cep": "0402-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "jangamo",
+  "posto administrativo": "cumbana",
+  "cep": "0403-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "jangamo",
+  "posto administrativo": "jangamo",
+  "cep": "0403-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "balane 1",
+  "cep": "0404-01"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "balane 2",
+  "cep": "0404-02"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "balane 3",
+  "cep": "0404-03"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "chamane",
+  "cep": "0404-04"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "chambale 1",
+  "cep": "0404-05"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "chambale 2",
+  "cep": "0404-06"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "conguiane",
+  "cep": "0404-07"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "guitamatuno",
+  "cep": "0404-08"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "ilha inhambane",
+  "cep": "0404-09"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "josina machel",
+  "cep": "0404-10"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "liberdade 1",
+  "cep": "0404-11"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "liberdade 2",
+  "cep": "0404-12"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "liberdade 2",
+  "cep": "0404-13"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "machavenga",
+  "cep": "0404-14"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "malembuana",
+  "cep": "0404-15"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "marrombone",
+  "cep": "0404-16"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "macucune",
+  "cep": "0404-17"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "muele 1",
+  "cep": "0404-18"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "muele 2",
+  "cep": "0404-19"
+},
+    {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "muele 3",
+  "cep": "0404-20"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "nhamua",
+  "cep": "0404-21"
+},
+      {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "salele",
+  "cep": "0404-22"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhambane",
+  "posto administrativo": "siquiriva",
+  "cep": "0404-23"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "bembe",
+  "cep": "0405-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "chambone a",
+  "cep": "0405-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "chambone b",
+  "cep": "0405-03"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "dambo",
+  "cep": "0405-04"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "eduardo mondlane",
+  "cep": "0405-05"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "mabil",
+  "cep": "0405-06"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "macupula",
+  "cep": "0405-07"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "dambo",
+  "cep": "0405-08"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "malalane",
+  "cep": "0405-09"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "manhala",
+  "cep": "0405-10"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "mawewe",
+  "cep": "0405-11"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "nhabanda",
+  "cep": "0405-12"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "nhaguiviga",
+  "cep": "0405-13"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "nhambiu",
+  "cep": "0405-14"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "nhanguila",
+  "cep": "0405-15"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "rumbana",
+  "cep": "0405-16"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "maxixe",
+  "posto administrativo": "tinga-tinga",
+  "cep": "0405-17"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "homoine",
+  "posto administrativo": "homoine",
+  "cep": "0406-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "homoine",
+  "posto administrativo": "pembe",
+  "cep": "0406-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "panda",
+  "posto administrativo": "mawayela",
+  "cep": "0407-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "panda",
+  "posto administrativo": "panda",
+  "cep": "0407-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "panda",
+  "posto administrativo": "urrene",
+  "cep": "0407-03"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "morrumbene",
+  "posto administrativo": "mocodoene",
+  "cep": "0408-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "morrumbene",
+  "posto administrativo": "morrumbene",
+  "cep": "0408-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "massinga",
+  "posto administrativo": "chicomo",
+  "cep": "0409-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "massinga",
+  "posto administrativo": "massinga",
+  "cep": "0409-02"
+},
+ {
+  "provincia": "inhambane",
+  "distrito": "funhalouro",
+  "posto administrativo": "funhalouro",
+  "cep": "0410-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "funhalouro",
+  "posto administrativo": "tome",
+  "cep": "0410-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "vilankulo",
+  "posto administrativo": "mapinhane",
+  "cep": "0411-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "vilankulo",
+  "posto administrativo": "vilankulo",
+  "cep": "0411-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "mabote",
+  "posto administrativo": "mabote",
+  "cep": "0412-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "mabote",
+  "posto administrativo": "zimane",
+  "cep": "0412-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "mabote",
+  "posto administrativo": "zinave",
+  "cep": "0412-03"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhassoro",
+  "posto administrativo": "bazaruto",
+  "cep": "0413-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "inhassoro",
+  "posto administrativo": "inhassoro",
+  "cep": "0413-02"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "govuro",
+  "posto administrativo": "mambone",
+  "cep": "0414-01"
+},
+  {
+  "provincia": "inhambane",
+  "distrito": "govuro",
+  "posto administrativo": "save",
+  "cep": "0414-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "machanga",
+  "posto administrativo": "divinhe",
+  "cep": "0501-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "machanga",
+  "posto administrativo": "machanga",
+  "cep": "0501-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "buzi",
+  "posto administrativo": "buzi",
+  "cep": "0502-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "buzi",
+  "posto administrativo": "estaquinha",
+  "cep": "0502-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "buzi",
+  "posto administrativo": "sofala",
+  "cep": "0502-03"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "chibabava",
+  "posto administrativo": "chibabava",
+  "cep": "0503-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "chibabava",
+  "posto administrativo": "goonda",
+  "cep": "0503-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "chibabava",
+  "posto administrativo": "muxungue",
+  "cep": "0503-03"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "beira",
+  "posto administrativo": "chiveve",
+  "cep": "0504-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "beira",
+  "posto administrativo": "manga loforte",
+  "cep": "0504-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "beira",
+  "posto administrativo": "munhava",
+  "cep": "0504-03"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "beira",
+  "posto administrativo": "nhamizua",
+  "cep": "0504-04"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "beira",
+  "posto administrativo": "nhangau",
+  "cep": "0504-05"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "dondo",
+  "posto administrativo": "dondo",
+  "cep": "0505-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "dondo",
+  "posto administrativo": "mafambisse",
+  "cep": "0505-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "nhamatanda",
+  "posto administrativo": "nhamatanda",
+  "cep": "0506-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "nhamatanda",
+  "posto administrativo": "tica",
+  "cep": "0506-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "muanza",
+  "posto administrativo": "galinha",
+  "cep": "0507-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "muanza",
+  "posto administrativo": "muanza",
+  "cep": "0507-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "gorongosa",
+  "posto administrativo": "gorongosa",
+  "cep": "0508-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "gorongosa",
+  "posto administrativo": "nhamadze",
+  "cep": "0508-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "gorongosa",
+  "posto administrativo": "vanduzi",
+  "cep": "0508-03"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "marromeu",
+  "posto administrativo": "chupanga",
+  "cep": "0509-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "marromeu",
+  "posto administrativo": "marromeu",
+  "cep": "0509-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "cheringoma",
+  "posto administrativo": "inhaminga",
+  "cep": "0510-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "cheringoma",
+  "posto administrativo": "inhamitanga",
+  "cep": "0510-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "caia",
+  "posto administrativo": "caia",
+  "cep": "0511-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "caia",
+  "posto administrativo": "murraca",
+  "cep": "0511-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "caia",
+  "posto administrativo": "sena",
+  "cep": "0511-03"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "maringue",
+  "posto administrativo": "canxixe",
+  "cep": "0512-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "maringue",
+  "posto administrativo": "maringue",
+  "cep": "0512-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "maringue",
+  "posto administrativo": "subwe",
+  "cep": "0512-03"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "chemba",
+  "posto administrativo": "chemba",
+  "cep": "0513-01"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "chemba",
+  "posto administrativo": "chiramba",
+  "cep": "0513-02"
+},
+  {
+  "provincia": "sofala",
+  "distrito": "chemba",
+  "posto administrativo": "mulima",
+  "cep": "0513-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "machaze",
+  "posto administrativo": "chitobe",
+  "cep": "0601-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "machaze",
+  "posto administrativo": "save",
+  "cep": "0601-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "mossurize",
+  "posto administrativo": "chiurairue",
+  "cep": "0602-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "mossurize",
+  "posto administrativo": "dacata",
+  "cep": "0602-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "mossurize",
+  "posto administrativo": "espungabera",
+  "cep": "0602-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "sussundenga",
+  "posto administrativo": "dombe",
+  "cep": "0603-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "sussundenga",
+  "posto administrativo": "muoha",
+  "cep": "0603-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "sussundenga",
+  "posto administrativo": "rotanda",
+  "cep": "0603-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "sussundenga",
+  "posto administrativo": "sussundenga",
+  "cep": "0603-04"
+},
+  {
+  "provincia": "manica",
+  "distrito": "macate",
+  "posto administrativo": "macate",
+  "cep": "0604-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "macate",
+  "posto administrativo": "zembe",
+  "cep": "0604-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "gondola",
+  "posto administrativo": "amatongas",
+  "cep": "0605-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "gondola",
+  "posto administrativo": "cafumpe",
+  "cep": "0605-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "gondola",
+  "posto administrativo": "gondola",
+  "cep": "0605-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "gondola",
+  "posto administrativo": "inchope",
+  "cep": "0605-04"
+},
+  {
+  "provincia": "manica",
+  "distrito": "chimoio",
+  "posto administrativo": "posto administrativo numero 1",
+  "cep": "0606-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "chimoio",
+  "posto administrativo": "posto administrativo numero 2",
+  "cep": "0606-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "chimoio",
+  "posto administrativo": "posto administrativo numero 3",
+  "cep": "0606-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "vanduzi",
+  "posto administrativo": "matsinho",
+  "cep": "0607-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "vanduzi",
+  "posto administrativo": "vanduzi",
+  "cep": "0607-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "manica",
+  "posto administrativo": "manica",
+  "cep": "0608-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "manica",
+  "posto administrativo": "machipanda",
+  "cep": "0608-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "manica",
+  "posto administrativo": "mavonde",
+  "cep": "0608-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "manica",
+  "posto administrativo": "messica",
+  "cep": "0608-04"
+},
+  {
+  "provincia": "manica",
+  "distrito": "macossa",
+  "posto administrativo": "macossa",
+  "cep": "0609-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "macossa",
+  "posto administrativo": "nguawala",
+  "cep": "0609-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "macossa",
+  "posto administrativo": "nhamagua",
+  "cep": "0609-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "barue",
+  "posto administrativo": "catandica",
+  "cep": "0610-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "barue",
+  "posto administrativo": "choa",
+  "cep": "0610-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "barue",
+  "posto administrativo": "nhampassa",
+  "cep": "0610-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "tambara",
+  "posto administrativo": "buzua",
+  "cep": "0611-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "tambara",
+  "posto administrativo": "nhacafula",
+  "cep": "0611-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "tambara",
+  "posto administrativo": "nhacolo",
+  "cep": "0611-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "guro",
+  "posto administrativo": "guro",
+  "cep": "0612-01"
+},
+  {
+  "provincia": "manica",
+  "distrito": "guro",
+  "posto administrativo": "mandie",
+  "cep": "0612-02"
+},
+  {
+  "provincia": "manica",
+  "distrito": "guro",
+  "posto administrativo": "mungari",
+  "cep": "0612-03"
+},
+  {
+  "provincia": "manica",
+  "distrito": "guro",
+  "posto administrativo": "nhamassonge",
+  "cep": "0612-04"
+},
+  {
+  "provincia": "tete",
+  "distrito": "mutarara",
+  "posto administrativo": "charre",
+  "cep": "0701-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "mutarara",
+  "posto administrativo": "inhangoma",
+  "cep": "0701-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "mutarara",
+  "posto administrativo": "nhamayabue",
+  "cep": "0701-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "doa",
+  "posto administrativo": "chueza",
+  "cep": "0702-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "doa",
+  "posto administrativo": "doa",
+  "cep": "0702-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "changara",
+  "posto administrativo": "chioco",
+  "cep": "0703-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "changara",
+  "posto administrativo": "luenha",
+  "cep": "0703-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "moatize",
+  "posto administrativo": "kambulatsitsi",
+  "cep": "0704-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "moatize",
+  "posto administrativo": "moatize",
+  "cep": "0704-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "chingodzi",
+  "cep": "0705-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "degue",
+  "cep": "0705-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "filipe samuel magaia",
+  "cep": "0705-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "francisco manyanga",
+  "cep": "0705-04"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "josina machel",
+  "cep": "0705-05"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "mateus sansao muthemba",
+  "cep": "0705-06"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "matundo",
+  "cep": "0705-07"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "mpadue",
+  "cep": "0705-08"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tete",
+  "posto administrativo": "samora machel",
+  "cep": "0705-09"
+},
+  {
+  "provincia": "tete",
+  "distrito": "marara",
+  "posto administrativo": "marara",
+  "cep": "0706-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "marara",
+  "posto administrativo": "mufa-boroma",
+  "cep": "0706-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "cahora-bassa",
+  "posto administrativo": "chintholo",
+  "cep": "0707-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "cahora-bassa",
+  "posto administrativo": "chitima",
+  "cep": "0707-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "cahora-bassa",
+  "posto administrativo": "songo",
+  "cep": "0707-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "magoe",
+  "posto administrativo": "chinthopo",
+  "cep": "0708-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "magoe",
+  "posto administrativo": "mphende",
+  "cep": "0708-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "magoe",
+  "posto administrativo": "mukumbura",
+  "cep": "0708-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tsangano",
+  "posto administrativo": "mukumbura",
+  "cep": "0708-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tsangano",
+  "posto administrativo": "ntengo wa mbalame",
+  "cep": "0709-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "tsangano",
+  "posto administrativo": "tsangano",
+  "cep": "0709-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "chiuta",
+  "posto administrativo": "kazula",
+  "cep": "0709-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "chiuta",
+  "posto administrativo": "manje",
+  "cep": "0709-04"
+},
+  {
+  "provincia": "tete",
+  "distrito": "chiuta",
+  "posto administrativo": "manje",
+  "cep": "0709-04"
+},
+  {
+  "provincia": "tete",
+  "distrito": "maravia",
+  "posto administrativo": "chipera",
+  "cep": "0711-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "maravia",
+  "posto administrativo": "chiputu",
+  "cep": "0711-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "maravia",
+  "posto administrativo": "fingoe",
+  "cep": "0711-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "maravia",
+  "posto administrativo": "malowera",
+  "cep": "0711-04"
+},
+  {
+  "provincia": "tete",
+  "distrito": "zumbu",
+  "posto administrativo": "muze",
+  "cep": "0712-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "zumbu",
+  "posto administrativo": "zambue",
+  "cep": "0712-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "zumbu",
+  "posto administrativo": "zumbu",
+  "cep": "0712-03"
+},
+  {
+  "provincia": "tete",
+  "distrito": "angonia",
+  "posto administrativo": "domue",
+  "cep": "0713-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "angonia",
+  "posto administrativo": "ulongue",
+  "cep": "0713-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "macanga",
+  "posto administrativo": "chindzolomondo",
+  "cep": "0714-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "macanga",
+  "posto administrativo": "furancungo",
+  "cep": "0714-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "chifunde",
+  "posto administrativo": "chifunde",
+  "cep": "0715-01"
+},
+  {
+  "provincia": "tete",
+  "distrito": "chifunde",
+  "posto administrativo": "mualadzi",
+  "cep": "0715-02"
+},
+  {
+  "provincia": "tete",
+  "distrito": "chifunde",
+  "posto administrativo": "nsadzu",
+  "cep": "0715-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "chinde",
+  "posto administrativo": "chinde",
+  "cep": "0801-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "chinde",
+  "posto administrativo": "micaune",
+  "cep": "0801-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "luabo",
+  "posto administrativo": "chimbazo",
+  "cep": "0802-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "luabo",
+  "posto administrativo": "luabo",
+  "cep": "0802-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "inhassunge",
+  "posto administrativo": "gonhane",
+  "cep": "0803-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "inhassunge",
+  "posto administrativo": "inhassunge",
+  "cep": "0803-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "quelimane",
+  "posto administrativo": "posto administrativo numero 1",
+  "cep": "0804-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "quelimane",
+  "posto administrativo": "posto administrativo numero 2",
+  "cep": "0804-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "quelimane",
+  "posto administrativo": "posto administrativo numero 3",
+  "cep": "0804-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "quelimane",
+  "posto administrativo": "posto administrativo numero 4",
+  "cep": "0804-04"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "quelimane",
+  "posto administrativo": "posto administrativo numero 5",
+  "cep": "0804-05"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "quelimane",
+  "posto administrativo": "maquival",
+  "cep": "0804-06"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mopeia",
+  "posto administrativo": "campo",
+  "cep": "0805-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mopeia",
+  "posto administrativo": "mopeia",
+  "cep": "0805-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "namacurra",
+  "posto administrativo": "macuse",
+  "cep": "0806-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "namacurra",
+  "posto administrativo": "namacurra",
+  "cep": "0806-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "nicoadala",
+  "posto administrativo": "nocoadala",
+  "cep": "0807-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "maganja da costa",
+  "posto administrativo": "baixo licungo",
+  "cep": "0808-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "maganja da costa",
+  "posto administrativo": "maganja",
+  "cep": "0808-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mocubela",
+  "posto administrativo": "bajone",
+  "cep": "0809-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mocubela",
+  "posto administrativo": "mocubela",
+  "cep": "0809-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mocuba",
+  "posto administrativo": "mocuba",
+  "cep": "0810-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mocuba",
+  "posto administrativo": "mugeba",
+  "cep": "0810-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mocuba",
+  "posto administrativo": "namanjavira",
+  "cep": "0810-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "derre",
+  "posto administrativo": "derre",
+  "cep": "0811-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "derre",
+  "posto administrativo": "guerissa",
+  "cep": "0811-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "morrumbala",
+  "posto administrativo": "chire",
+  "cep": "0812-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "morrumbala",
+  "posto administrativo": "magaza",
+  "cep": "0812-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "morrumbala",
+  "posto administrativo": "morrumbala",
+  "cep": "0812-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "pebane",
+  "posto administrativo": "mulela",
+  "cep": "0813-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "pebane",
+  "posto administrativo": "naburi",
+  "cep": "0813-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "pebane",
+  "posto administrativo": "pebane",
+  "cep": "0813-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mulevala",
+  "posto administrativo": "chiraco",
+  "cep": "0814-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "mulevala",
+  "posto administrativo": "mulevala",
+  "cep": "0814-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "lugela",
+  "posto administrativo": "lugela",
+  "cep": "0815-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "lugela",
+  "posto administrativo": "muabanama",
+  "cep": "0815-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "lugela",
+  "posto administrativo": "munhamade",
+  "cep": "0815-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "lugela",
+  "posto administrativo": "tacuane",
+  "cep": "0815-04"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "milange",
+  "posto administrativo": "majaua",
+  "cep": "0816-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "milange",
+  "posto administrativo": "milange",
+  "cep": "0816-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "milange",
+  "posto administrativo": "mongue",
+  "cep": "0816-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "gile",
+  "posto administrativo": "alto ligonha",
+  "cep": "0817-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "gile",
+  "posto administrativo": "gile",
+  "cep": "0817-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "alto molocue",
+  "posto administrativo": "molocue",
+  "cep": "0818-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "alto molocue",
+  "posto administrativo": "nauela",
+  "cep": "0818-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "ile",
+  "posto administrativo": "ile",
+  "cep": "0819-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "ile",
+  "posto administrativo": "namigonha",
+  "cep": "0819-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "ile",
+  "posto administrativo": "socone",
+  "cep": "0819-03"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "namarroi",
+  "posto administrativo": "namarroi",
+  "cep": "0820-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "namarroi",
+  "posto administrativo": "regone",
+  "cep": "0820-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "molumbo",
+  "posto administrativo": "corromana",
+  "cep": "0821-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "molumbo",
+  "posto administrativo": "molumbo",
+  "cep": "0821-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "gurue",
+  "posto administrativo": "gurue",
+  "cep": "0822-01"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "gurue",
+  "posto administrativo": "lioma",
+  "cep": "0822-02"
+},
+  {
+  "provincia": "zambezia",
+  "distrito": "gurue",
+  "posto administrativo": "mepuagiua",
+  "cep": "0822-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "moma",
+  "posto administrativo": "chalaua",
+  "cep": "0901-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "moma",
+  "posto administrativo": "moma",
+  "cep": "0901-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "larde",
+  "posto administrativo": "larde",
+  "cep": "0902-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "larde",
+  "posto administrativo": "mucuali",
+  "cep": "0902-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "angoche",
+  "posto administrativo": "angoche",
+  "cep": "0903-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "angoche",
+  "posto administrativo": "auhe",
+  "cep": "0903-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "angoche",
+  "posto administrativo": "boila",
+  "cep": "0903-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "angoche",
+  "posto administrativo": "namaponda",
+  "cep": "0903-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogovolas",
+  "posto administrativo": "calipo",
+  "cep": "0904-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogovolas",
+  "posto administrativo": "luluti",
+  "cep": "0904-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogovolas",
+  "posto administrativo": "muatua",
+  "cep": "0904-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogovolas",
+  "posto administrativo": "nametil",
+  "cep": "0904-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogovolas",
+  "posto administrativo": "nanhupo rio",
+  "cep": "0904-05"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "murrupula",
+  "posto administrativo": "chinga",
+  "cep": "0905-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "murrupula",
+  "posto administrativo": "murrupula",
+  "cep": "0905-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "murrupula",
+  "posto administrativo": "nihessiue",
+  "cep": "0905-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "liupo",
+  "posto administrativo": "liupo",
+  "cep": "0906-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "liupo",
+  "posto administrativo": "quinga",
+  "cep": "0906-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogincual",
+  "posto administrativo": "namige",
+  "cep": "0907-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mogincual",
+  "posto administrativo": "quixaxe",
+  "cep": "0907-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "meconta",
+  "posto administrativo": "7 de abril",
+  "cep": "0908-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "meconta",
+  "posto administrativo": "corrane",
+  "cep": "0908-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "meconta",
+  "posto administrativo": "meconta",
+  "cep": "0908-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "meconta",
+  "posto administrativo": "namialo",
+  "cep": "0908-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nampula",
+  "posto administrativo": "anchilo",
+  "cep": "0909-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nampula",
+  "posto administrativo": "central",
+  "cep": "0909-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nampula",
+  "posto administrativo": "muatala",
+  "cep": "0909-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nampula",
+  "posto administrativo": "namicopo",
+  "cep": "0909-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nampula",
+  "posto administrativo": "napipine",
+  "cep": "0909-05"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nampula",
+  "posto administrativo": "natikire",
+  "cep": "0909-06"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "rapale",
+  "posto administrativo": "mutivasse",
+  "cep": "0910-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "rapale",
+  "posto administrativo": "namaita",
+  "cep": "0910-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "rapale",
+  "posto administrativo": "rapale",
+  "cep": "0910-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "ribaue",
+  "posto administrativo": "cunle",
+  "cep": "0911-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "ribaue",
+  "posto administrativo": "iapala",
+  "cep": "0911-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "ribaue",
+  "posto administrativo": "ribaue",
+  "cep": "0911-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "malema",
+  "posto administrativo": "canhunha",
+  "cep": "0912-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "malema",
+  "posto administrativo": "chihulo",
+  "cep": "0912-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "malema",
+  "posto administrativo": "malema",
+  "cep": "0912-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "malema",
+  "posto administrativo": "mutuali",
+  "cep": "0912-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "ilha de mocambique",
+  "posto administrativo": "ilha de mocambique",
+  "cep": "0913-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "ilha de mocambique",
+  "posto administrativo": "lumbo",
+  "cep": "0913-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mossuril",
+  "posto administrativo": "lunga",
+  "cep": "0914-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mossuril",
+  "posto administrativo": "matibane",
+  "cep": "0914-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mossuril",
+  "posto administrativo": "mossuril",
+  "cep": "0914-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "monapo",
+  "posto administrativo": "itoculo",
+  "cep": "0915-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "monapo",
+  "posto administrativo": "monapo",
+  "cep": "0915-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "monapo",
+  "posto administrativo": "netia",
+  "cep": "0915-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "muecate",
+  "posto administrativo": "imala",
+  "cep": "0916-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "muecate",
+  "posto administrativo": "muculuone",
+  "cep": "0916-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "muecate",
+  "posto administrativo": "muecate",
+  "cep": "0916-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mecuburi",
+  "posto administrativo": "mecuburi",
+  "cep": "0917-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mecuburi",
+  "posto administrativo": "milhana",
+  "cep": "0917-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mecuburi",
+  "posto administrativo": "muite",
+  "cep": "0917-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "mecuburi",
+  "posto administrativo": "namina",
+  "cep": "0917-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "lalaua",
+  "posto administrativo": "lalaua",
+  "cep": "0918-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "lalaua",
+  "posto administrativo": "meti",
+  "cep": "0918-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nacala",
+  "posto administrativo": "muonona",
+  "cep": "0919-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nacala",
+  "posto administrativo": "mutiva",
+  "cep": "0919-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nacala a velha",
+  "posto administrativo": "nacala a velha",
+  "cep": "0920-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nacaroa",
+  "posto administrativo": "inteta",
+  "cep": "0921-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nacaroa",
+  "posto administrativo": "nacaroa",
+  "cep": "0921-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "nacaroa",
+  "posto administrativo": "saua saua",
+  "cep": "0921-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "memba",
+  "posto administrativo": "chipene",
+  "cep": "0922-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "memba",
+  "posto administrativo": "lurio",
+  "cep": "0922-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "memba",
+  "posto administrativo": "mezua",
+  "cep": "0922-03"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "memba",
+  "posto administrativo": "memba",
+  "cep": "0922-04"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "erati",
+  "posto administrativo": "alaua",
+  "cep": "0923-01"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "erati",
+  "posto administrativo": "namapa",
+  "cep": "0923-02"
+},
+  {
+  "provincia": "nampula",
+  "distrito": "erati",
+  "posto administrativo": "namiroa",
+  "cep": "0923-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mecufi",
+  "posto administrativo": "mecufi",
+  "cep": "1001-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mecufi",
+  "posto administrativo": "murrebue",
+  "cep": "1001-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "chiure",
+  "posto administrativo": "chiure",
+  "cep": "1002-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "chiure",
+  "posto administrativo": "chiure velho",
+  "cep": "1002-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "chiure",
+  "posto administrativo": "katapua",
+  "cep": "1002-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "chiure",
+  "posto administrativo": "mazeze",
+  "cep": "1002-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "chiure",
+  "posto administrativo": "namogelia",
+  "cep": "1002-05"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "chiure",
+  "posto administrativo": "ocua",
+  "cep": "1002-06"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "namuno",
+  "posto administrativo": "hucula",
+  "cep": "1003-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "namuno",
+  "posto administrativo": "machoca",
+  "cep": "1003-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "namuno",
+  "posto administrativo": "meloco",
+  "cep": "1003-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "namuno",
+  "posto administrativo": "namuno",
+  "cep": "1003-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "namuno",
+  "posto administrativo": "n'cumpe",
+  "cep": "1003-05"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "namuno",
+  "posto administrativo": "papai",
+  "cep": "1003-06"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "balama",
+  "posto administrativo": "balama",
+  "cep": "1004-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "balama",
+  "posto administrativo": "impiri",
+  "cep": "1004-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "balama",
+  "posto administrativo": "kuekue",
+  "cep": "1004-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "balama",
+  "posto administrativo": "mavale",
+  "cep": "1004-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "alto gingone",
+  "cep": "1005-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "cariaco",
+  "cep": "1005-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "cimento",
+  "cep": "1005-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "chuiba",
+  "cep": "1005-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "eduardo mondlane",
+  "cep": "1005-05"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "ingonane",
+  "cep": "1005-06"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "marringanha",
+  "cep": "1005-07"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "muxara",
+  "cep": "1005-08"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "natite",
+  "cep": "1005-09"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "pemba",
+  "posto administrativo": "paquitequete",
+  "cep": "1005-10"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "metuge",
+  "posto administrativo": "metuge",
+  "cep": "1006-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "metuge",
+  "posto administrativo": "mieze",
+  "cep": "1006-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "ancuabe",
+  "posto administrativo": "ancuabe",
+  "cep": "1007-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "ancuabe",
+  "posto administrativo": "metoro",
+  "cep": "1007-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "ancuabe",
+  "posto administrativo": "mesa",
+  "cep": "1007-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "quissanga",
+  "posto administrativo": "bilibiza",
+  "cep": "1008-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "quissanga",
+  "posto administrativo": "mahate",
+  "cep": "1008-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "quissanga",
+  "posto administrativo": "quissanga",
+  "cep": "1008-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "ibo",
+  "posto administrativo": "ibo",
+  "cep": "1009-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "ibo",
+  "posto administrativo": "quirimba",
+  "cep": "1009-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "meluco",
+  "posto administrativo": "meluco",
+  "cep": "1010-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "meluco",
+  "posto administrativo": "muaguide",
+  "cep": "1010-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "montepuez",
+  "posto administrativo": "mapupulo",
+  "cep": "1011-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "montepuez",
+  "posto administrativo": "mirate",
+  "cep": "1011-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "montepuez",
+  "posto administrativo": "montepuez",
+  "cep": "1011-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "montepuez",
+  "posto administrativo": "nairoto",
+  "cep": "1011-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "montepuez",
+  "posto administrativo": "namanhumbir",
+  "cep": "1011-05"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "macomia",
+  "posto administrativo": "chai",
+  "cep": "1012-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "macomia",
+  "posto administrativo": "macomia",
+  "cep": "1012-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "macomia",
+  "posto administrativo": "mucojo",
+  "cep": "1012-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "macomia",
+  "posto administrativo": "quiterajo",
+  "cep": "1012-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "muidumbe",
+  "posto administrativo": "chitunda",
+  "cep": "1013-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "muidumbe",
+  "posto administrativo": "miteda",
+  "cep": "1013-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "muidumbe",
+  "posto administrativo": "muidumbe",
+  "cep": "1013-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mocimboa da praia",
+  "posto administrativo": "diaca",
+  "cep": "1014-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mocimboa da praia",
+  "posto administrativo": "mbau",
+  "cep": "1014-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mocimboa da praia",
+  "posto administrativo": "mocimboa da praia",
+  "cep": "1014-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mueda",
+  "posto administrativo": "chapa",
+  "cep": "1015-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mueda",
+  "posto administrativo": "imbuo",
+  "cep": "1015-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mueda",
+  "posto administrativo": "mueda",
+  "cep": "1015-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mueda",
+  "posto administrativo": "negomano",
+  "cep": "1015-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "mueda",
+  "posto administrativo": "n'gapa",
+  "cep": "1015-05"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "palma",
+  "posto administrativo": "olumbi",
+  "cep": "1016-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "palma",
+  "posto administrativo": "palma",
+  "cep": "1016-02"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "palma",
+  "posto administrativo": "pundanhar",
+  "cep": "1016-03"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "palma",
+  "posto administrativo": "quionga",
+  "cep": "1016-04"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "nangade",
+  "posto administrativo": "nangade",
+  "cep": "1017-01"
+},
+  {
+  "provincia": "cabo delgado",
+  "distrito": "nangade",
+  "posto administrativo": "m'tamba",
+  "cep": "1017-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "cuamba",
+  "posto administrativo": "cuamba",
+  "cep": "1101-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "cuamba",
+  "posto administrativo": "etatara",
+  "cep": "1101-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "cuamba",
+  "posto administrativo": "lurio",
+  "cep": "1101-03"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mecanhelas",
+  "posto administrativo": "chiuta",
+  "cep": "1102-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mecanhelas",
+  "posto administrativo": "insaca",
+  "cep": "1102-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "metarica",
+  "posto administrativo": "metarica",
+  "cep": "1103-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "metarica",
+  "posto administrativo": "nacumua",
+  "cep": "1103-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mandimba",
+  "posto administrativo": "mandimba",
+  "cep": "1104-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mandimba",
+  "posto administrativo": "mitande",
+  "cep": "1104-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "nipepe",
+  "posto administrativo": "muipite",
+  "cep": "1105-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "nipepe",
+  "posto administrativo": "nipepe",
+  "cep": "1105-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "maua",
+  "posto administrativo": "maiaca",
+  "cep": "1106-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "maua",
+  "posto administrativo": "maua",
+  "cep": "1106-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "marrupa",
+  "posto administrativo": "marangira",
+  "cep": "1107-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "marrupa",
+  "posto administrativo": "marrupa",
+  "cep": "1107-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "marrupa",
+  "posto administrativo": "nungo",
+  "cep": "1107-03"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "majune",
+  "posto administrativo": "malanga",
+  "cep": "1108-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "majune",
+  "posto administrativo": "muaquia",
+  "cep": "1108-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "majune",
+  "posto administrativo": "nairubi",
+  "cep": "1108-03"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "ngauma",
+  "posto administrativo": "itepela",
+  "cep": "1109-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "ngauma",
+  "posto administrativo": "massangulo",
+  "cep": "1109-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "chimbunila",
+  "posto administrativo": "chimbunila",
+  "cep": "1110-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "chimbunila",
+  "posto administrativo": "lione",
+  "cep": "1110-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "lichinga",
+  "posto administrativo": "lichinga",
+  "cep": "1111-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "lichinga",
+  "posto administrativo": "meponda",
+  "cep": "1111-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mecula",
+  "posto administrativo": "matondovela",
+  "cep": "1112-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mecula",
+  "posto administrativo": "mecula",
+  "cep": "1112-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mavago",
+  "posto administrativo": "mavago",
+  "cep": "1113-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "mavago",
+  "posto administrativo": "m'sawize",
+  "cep": "1113-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "muembe",
+  "posto administrativo": "chiconono",
+  "cep": "1114-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "muembe",
+  "posto administrativo": "muembe",
+  "cep": "1114-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "sanga",
+  "posto administrativo": "lussimbesse",
+  "cep": "1115-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "sanga",
+  "posto administrativo": "macaloge",
+  "cep": "1115-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "sanga",
+  "posto administrativo": "matchedje",
+  "cep": "1115-03"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "sanga",
+  "posto administrativo": "unango",
+  "cep": "1115-04"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "lago",
+  "posto administrativo": "cobue",
+  "cep": "1116-01"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "lago",
+  "posto administrativo": "lunho",
+  "cep": "1116-02"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "lago",
+  "posto administrativo": "maniamba",
+  "cep": "1116-03"
+},
+  {
+  "provincia": "niassa",
+  "distrito": "lago",
+  "posto administrativo": "metangula",
+  "cep": "1116-04"
+}
+]

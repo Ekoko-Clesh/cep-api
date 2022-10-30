@@ -17,7 +17,7 @@ def welcome_message():
         "buscar por distrito": {"Url": "/moz-cep-api/nome_do_distrito"},
         "buscar por cidade": {"Url": "/moz-cep-api/cidade/nome_da_cidade"},
         "buscar por provincia": {"Url": "/moz-cep-api/provincia/nome_da_provincia"},
-        "buscar todos": {"Url": "/moz-cep-api/todos/"}
+        "buscar todos": {"Url": "/moz-cep-api/todos"}
     }
     return jsonify(msg)
 

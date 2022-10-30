@@ -1,0 +1,133 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "API para Consulta de CEP",
+    "version": "1.0.0",
+    "title": "Moz-Cep-API",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "/moz-cep-api"
+    }
+  ],
+  "paths": {
+        "/todos/": {
+      "get": {
+        "summary": "Retorna todos dados",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Solicitação incompreendida."
+          },
+          "404": {
+            "description": "Busca de dados sem sucesso."
+          }
+        }
+      }
+    },
+    "/bairro/{id}": {
+      "get": {
+        "summary": "Retorna dados do Bairro Requisitado (são somente considerados os bairros da cidade de Maputo)",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "description": "Nome do Bairro"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Solicitação incompreendida."
+          },
+          "404": {
+            "description": "Busca de dados do Posto administrativo sem sucesso."
+          }
+        }
+      }
+    },
+
+    "/cidade/{id}": {
+      "get": {
+        "summary": "Retorna dados da Cidade referida",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "description": "Nome da Cidade"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Solicitação incompreendida."
+          },
+          "404": {
+            "description": "Busca de dados da Cidade sem sucesso."
+          }
+        }
+      }
+    },
+
+    "/provincia/{id}": {
+      "get": {
+        "summary": "Retorna dados da Provincia referida",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "description": "Nome da Provincia"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Solicitação incompreendida."
+          },
+          "404": {
+            "description": "Busca de dados da Provincia sem sucesso."
+          }
+        }
+      }
+    },
+    "/posto-admin/{id}": {
+      "get": {
+        "summary": "Retorna dados do Posto Administrativo referido",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "description": "Nome da provincia"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Solicitação incompreendida."
+          },
+          "404": {
+            "description": "Busca de dados do Posto Administrativo sem sucesso."
+          }
+        }
+      }
+    }
+  }
+}

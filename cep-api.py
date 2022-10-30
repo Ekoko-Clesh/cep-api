@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_restful import Resource, Api, reqparse, abort
+from flask_swagger_ui import get_swaggerui_blueprint
 import json
 
 app = Flask(__name__)
@@ -8,14 +9,26 @@ f = open("dados.json")
 dados = json.load(f)
 
 parser = reqparse.RequestParser(bundle_errors=True)
-parser.add_argument('searched_key', type=int, required=True)
 
+SWAGGER_URL = '/moz-cep-api/docs'  # URL for exposing Swagger UI (without trailing '/')
+API_URL = '/static/documentacao.json'  # Our API url (can of course be a local resource)
+
+# Call factory function to create our blueprint
+swaggerui_blueprint = get_swaggerui_blueprint(
+    SWAGGER_URL,  # Swagger UI static files will be mapped to '{SWAGGER_URL}/dist/'
+    API_URL,
+    config={  # Swagger UI config overrides
+        'app_name': "Moz-Cep-API"
+    }
+)
+
+app.register_blueprint(swaggerui_blueprint)
 
 @app.route("/")
 def welcome_message():
     msg = {
-        "buscar todos": {"Url": "/moz-cep-api/todos"},
-        "buscar por distrito": {"Url": "/moz-cep-api/nome_do_distrito"},
+        "buscar todos": {"Url": "/moz-cep-api/todos/"},
+        "buscar por distrito": {"Url": "/moz-cep-api/distrito"},
         "buscar por cidade": {"Url": "/moz-cep-api/cidade/nome_da_cidade"},
         "buscar por provincia": {"Url": "/moz-cep-api/provincia/nome_da_provincia"},
         "buscar por posto administrativo": {"Url": "/moz-cep-api/posto-admin/nome_do_posto_administrativo"}
@@ -41,15 +54,9 @@ class Get_by_name(Resource):
                          }
                     t.append(j)
             except:
-                if searched_key == dados[key]["posto administrativo"]:
-                    j = {"provincia": dados[key]["provincia"],
-                         "distrito": dados[key]["distrito"],
-                         "posto administrativo": dados[key]["posto administrativo"],
-                         "cep": dados[key]["cep"]
-                         }
-                    t.append(j)
+                pass
         if len(t) == 0:
-            t.append({"mensagem": "nenhum registro foi achado"})
+            t.append({"mensagem": f"nenhum registro referentes ao bairro de {searched_key} foi achado"})
 
         return jsonify(t)
 
@@ -69,7 +76,7 @@ class Get_by_city(Resource):
             except:
                 pass
         if len(t) == 0:
-            t.append({"mensagem": f"nenhum registro referentes a cidade de {searched_key} foi achado"})
+            t.append({"mensagem": f"nenhum registro referente a cidade de {searched_key} foi achado"})
         return jsonify(t)
 
 
@@ -88,7 +95,7 @@ class Get_by_province(Resource):
             except:
                 pass
         if len(t) == 0:
-            t.append({"mensagem": f"nenhum registro referentes a provincia de {searched_key} foi achado"})
+            t.append({"mensagem": f"nenhum registro referente a provincia de {searched_key} foi achado"})
         return jsonify(t)
 
 
@@ -107,7 +114,7 @@ class Get_by_administrative_post(Resource):
             except:
                 pass
         if len(t) == 0:
-            t.append({"mensagem": f"nenhum registro referentes ao posto administrativo de {searched_key} foi achado"})
+            t.append({"mensagem": f"nenhum registro referente ao posto administrativo de {searched_key} foi achado"})
         return jsonify(t)
 
 
@@ -137,7 +144,7 @@ class Get_by_administrative_post_error(Resource):
         return jsonify(msg)
 
 
-api.add_resource(Get_by_name, "/moz-cep-api/distrito/<searched_key>")
+api.add_resource(Get_by_name, "/moz-cep-api/bairro/<searched_key>")
 api.add_resource(Get_by_city, "/moz-cep-api/cidade/<searched_key>")
 api.add_resource(Get_by_province, "/moz-cep-api/provincia/<searched_key>")
 api.add_resource(Get_by_administrative_post, "/moz-cep-api/posto-admin/<searched_key>")

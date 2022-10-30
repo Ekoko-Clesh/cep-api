@@ -146,4 +146,4 @@ api.add_resource(Get_by_city_error, "/moz-cep-api/cidade/")
 api.add_resource(Get_by_province_error, "/moz-cep-api/")
 api.add_resource(Get_by_administrative_post_error, "/moz-cep-api/posto-admin")
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()

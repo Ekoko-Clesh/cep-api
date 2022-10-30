@@ -14,10 +14,11 @@ parser.add_argument('searched_key', type=int, required=True)
 @app.route("/")
 def welcome_message():
     msg = {
-        "buscar por distrito": {"Url": "/moz-cep-api/nome_do_distrito"},
+        "buscar todos": {"Url": "/moz-cep-api/todos/"},
+        "buscar por distrito": {"Url": "/moz-cep-api/distrito"},
         "buscar por cidade": {"Url": "/moz-cep-api/cidade/nome_da_cidade"},
         "buscar por provincia": {"Url": "/moz-cep-api/provincia/nome_da_provincia"},
-        "buscar todos": {"Url": "/moz-cep-api/todos"}
+        "buscar por posto administrativo": {"Url": "/moz-cep-api/posto-admin/nome_do_posto_administrativo"}
     }
     return jsonify(msg)
 
@@ -97,9 +98,9 @@ class Get_by_administrative_post(Resource):
         for key, value in enumerate(dados):
             try:
                 if searched_key == dados[key]["posto administrativo"]:
-                    j = {"cidade": dados[key]["cidade"],
+                    j = {"provincia": dados[key]["provincia"],
                          "distrito": dados[key]["distrito"],
-                         "bairro": dados[key]["bairro"],
+                         "posto administrativo": dados[key]["posto administrativo"],
                          "cep": dados[key]["cep"]
                          }
                     t.append(j)

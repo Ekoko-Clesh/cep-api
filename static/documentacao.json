@@ -36,7 +36,6 @@
         "summary": "Retorna dados do Bairro Requisitado (são somente considerados os bairros da cidade de Maputo)",
         "parameters": [
           {
-            "in": "path",
             "name": "id",
             "required": true,
             "description": "Nome do Bairro"
@@ -61,7 +60,6 @@
         "summary": "Retorna dados da Cidade referida",
         "parameters": [
           {
-            "in": "path",
             "name": "id",
             "required": true,
             "description": "Nome da Cidade"
@@ -86,7 +84,6 @@
         "summary": "Retorna dados da Provincia referida",
         "parameters": [
           {
-            "in": "path",
             "name": "id",
             "required": true,
             "description": "Nome da Provincia"
@@ -110,7 +107,6 @@
         "summary": "Retorna dados do Posto Administrativo referido",
         "parameters": [
           {
-            "in": "path",
             "name": "id",
             "required": true,
             "description": "Nome da provincia"
